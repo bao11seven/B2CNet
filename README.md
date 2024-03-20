@@ -1,1 +1,1 @@
-The coda will be release as soon.
+The code will be release as soon.
