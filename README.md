@@ -1,6 +1,14 @@
 # B2CNet: A Progressive Change Boundary-to-Center Refinement Network for Multitemporal Remote Sensing Images Change Detection
 - Code for the paper: "B2CNet: A Progressive Change Boundary-to-Center Refinement Network for Multitemporal Remote Sensing Images Change Detection", JSTARS 2024. [[IEEE JSTARS]](https://ieeexplore.ieee.org/document/10547405)
 
+Methods
+-----------------
+<img width="1096" alt="image" src="images/B2CNet.png">
+
+Quantitative Comparison
+-----------------
+<img width="1096" alt="image" src="images/result.png">
+
 # Citation
 ```shell
 @ARTICLE{10547405,
