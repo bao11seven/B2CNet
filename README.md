@@ -24,7 +24,7 @@ Change detection data set with pixel-level binary labels；
 
 `A`: images of t1 phase;
 
-`B`:images of t2 phase;
+`B`: images of t2 phase;
 
 `label`: label maps;
 
